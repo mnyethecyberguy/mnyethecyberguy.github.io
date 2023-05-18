@@ -37,7 +37,7 @@ body {
 
 #socials li {
     display: inline;
-    margin: 0.1em;
+    margin: 0.2em;
     font-size: 2.5em;
 }
 
@@ -47,4 +47,8 @@ body {
 
 #socials li a:hover {
     color: #aaa;
+}
+
+#socials .whitespace {
+    display: none;
 }
