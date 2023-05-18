@@ -1,5 +1,5 @@
 body {
-    font-family: "Futura", Helvetica, sans-serif;
+    font-family: "Open Sans", sans-serif;
     background: gray url('../assets/trevi.jpg') no-repeat center fixed;
     background-size: cover;
     text-align: center;
@@ -27,6 +27,7 @@ body {
 
 #myname {
     font-size: 1.5em;
+    font-weight: 400;
 }
 
 #socials {
