@@ -1,7 +1,24 @@
 body {
     font-family: "Futura", Helvetica, sans-serif;
     background: gray url('../assets/trevi.jpg') no-repeat center fixed;
+    background-size: cover;
     text-align: center;
+    color: white;
+}
+
+#container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 15.5em;
+    padding: 1.5em;
+    border-radius: 3em;
+    background: rgba(20, 20, 20, 0.85);
+    overflow: auto;
+}
+
+#profile {
+    display: block;
 }
 
 #myname {
