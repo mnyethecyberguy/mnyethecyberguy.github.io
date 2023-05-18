@@ -1,10 +1,19 @@
 body {
-    font-family: "Futura", sans-serif;
-    margin: 0;
+    font-family: "Futura", Helvetica, sans-serif;
     background: gray url('../assets/profile.jpg') no-repeat center fixed;
     text-align: center;
 }
 
 #myname {
     font-size: 2.5em;
+}
+
+#socials {
+    margin: 0.5em 0;
+    padding: 0;
+}
+
+#socials li {
+    display: inline;
+    margin: 0.1em;
 }
