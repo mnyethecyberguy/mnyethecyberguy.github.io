@@ -43,6 +43,7 @@ body {
 
 #socials li a {
     color: white;
+    text-decoration: none;
 }
 
 #socials li a:hover {
