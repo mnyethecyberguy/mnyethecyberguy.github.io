@@ -19,6 +19,10 @@ body {
 
 #profile {
     display: block;
+    margin: 0.5em;
+    width: 14em;
+    border: 0.1em solid white;
+    border-radius: 1.5em;
 }
 
 #myname {
