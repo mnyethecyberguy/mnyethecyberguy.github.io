@@ -1,5 +1,10 @@
 body {
+    font-family: "Futura", sans-serif;
     margin: 0;
-    background: gray;
+    background: gray url('../assets/profile.jpg') no-repeat center fixed;
     text-align: center;
+}
+
+#myname {
+    font-size: 2.5em;
 }
